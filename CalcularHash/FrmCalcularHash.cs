@@ -2,9 +2,9 @@ using System.Security.Cryptography;
 
 namespace CalcularHash
 {
-    public partial class Form1 : Form
+    public partial class FrmCalcularHash : Form
     {
-        public Form1()
+        public FrmCalcularHash()
         {
             InitializeComponent();
 

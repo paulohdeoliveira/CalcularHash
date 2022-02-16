@@ -1,6 +1,6 @@
 ﻿namespace CalcularHash
 {
-    partial class Form1
+    partial class FrmCalcularHash
     {
         /// <summary>
         ///  Required designer variable.
